@@ -88,6 +88,7 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+      
     </main>
   );
 }
